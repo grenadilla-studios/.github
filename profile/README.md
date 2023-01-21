@@ -1,4 +1,5 @@
-## Welcome to Grenadilla Studios on GitHub. This organization houses OSS projects built by Brian Tracey.
+## Welcome to Grenadilla Studios on GitHub. 
+This organization houses OSS projects built by Brian Tracey.
 <sub>Profile image background photo by [Wolfgang Rottmann](https://unsplash.com/@quadratmedia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/wood-grain-texture?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
   </sub>
 <!--
